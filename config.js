@@ -8,9 +8,9 @@ module.exports = {
         name: "Main Node"
     }],
     spotify: {
-        clientId: "a568b55af1d940aca52ea8fe02f0d93b",
+        clientId: "1487087944417284157",
         clientSecret: "e8199f4024fe49c5b22ea9a3dd0c4789"
     },
-    botToken: "",
+    botToken: "MTQ4NzA4Nzk0NDQxNzI4NDE1Nw.Gq0Kqw._d3YjTY-vuMRv5KJYq7G_yWgOSBXCEty4G2B4o",
     embedColor: "#0061ff"
 };
